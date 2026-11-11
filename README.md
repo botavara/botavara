@@ -79,12 +79,14 @@ HISTORY
        2013-2018   Seidor / SAP, DevOps Technical Lead, Software Engineer
                    SAP Hybris e-commerce across EMEA, on-prem and cloud.
 
-       personal    LoveInBlock, https://loveinblock.com
-                   A Web3 digital commerce platform, deployed across bare
-                   metal and cloud. Where I get to make the architectural
-                   calls and live with them.
+PROJECTS
+       LoveInBlock, https://loveinblock.com
+              A Web3 digital commerce platform, deployed across bare metal
+              and cloud. Where I get to make the architectural calls and
+              live with them.
 
-       2021-2026   I.E.S. El Caminàs, cybersecurity and IT instructor
+TEACHING
+       2021-2026   I.E.S. El Caminàs, cybersecurity and IT lecturer
                    Vocational curriculum and hands-on labs for cohorts of
                    around twenty students a year.
 
