@@ -1,3 +1,5 @@
+<!-- CD /PUB | MORE BEER -->
+
 ```
 BOTAVARA(1)                      User Commands                      BOTAVARA(1)
 
