@@ -67,6 +67,15 @@ Associate Cloud Engineer, Google Cloud
 - *A Selective Privacy-Preserving Identity Attributes Protocol for Electronic Coupons* — Springer LNCS,
   2017. [10.1007/978-3-319-93524-9_11](https://doi.org/10.1007/978-3-319-93524-9_11)
 
+## Open source
+
+- [coollabsio/coolify#11951](https://github.com/coollabsio/coolify/pull/11951) — let a new DNS check replace a stored
+  result. Merged.
+- [alastria/isbe-onboarding#7](https://github.com/alastria/isbe-onboarding/pull/7) — update the TMF organization
+  instead of recreating it. Merged.
+- [eth-rpc-slo](https://github.com/botavara/eth-rpc-slo) — SLO-based alerting for Ethereum JSON-RPC endpoints:
+  Prometheus burn-rate rules with unit tests and CI.
+
 ## Elsewhere
 
 Most of my work lives in private repositories or on GitLab, so this profile is quieter than the day job.
