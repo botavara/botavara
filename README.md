@@ -108,8 +108,6 @@ SEE ALSO
 
 - [coollabsio/coolify#11951](https://github.com/coollabsio/coolify/pull/11951): let a new DNS check replace a stored
   result. Merged.
-- [alastria/isbe-onboarding#7](https://github.com/alastria/isbe-onboarding/pull/7): update the TMF organization
-  instead of recreating it. Merged.
 - [eth-rpc-slo](https://github.com/botavara/eth-rpc-slo): SLO-based alerting for Ethereum JSON-RPC endpoints,
   Prometheus burn-rate rules with unit tests and CI.
 
